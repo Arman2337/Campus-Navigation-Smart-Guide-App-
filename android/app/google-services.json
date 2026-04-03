@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "754609252198",
+    "project_id": "campus-navigation-96319",
+    "storage_bucket": "campus-navigation-96319.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754609252198:android:6d0ecd1cdbbdacd996caa7",
+        "android_client_info": {
+          "package_name": "com.uninav.campus_navigation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAozERus09C0McHWrOkRWOPcBLUC7a7WDE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
